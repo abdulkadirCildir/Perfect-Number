@@ -54,6 +54,16 @@ body {
 }
 
 #answer {
+    margin-bottom: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    color: lightgrey;
+    letter-spacing: 5px;
+    font-family: 'Acme', sans-serif;
+}
+
+#hello {
+    margin-top: 20px;
     font-size: 40px;
     font-weight: bold;
     color: rgb(255, 115, 0);

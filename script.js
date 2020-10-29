@@ -7,7 +7,7 @@ document.getElementById("query").addEventListener("keyup", function(event) {
 
 document.getElementById("check").addEventListener("click", perfectNumber);
 
-document.getElementById("answer").innerHTML = "Hello Everbody!!!";
+document.getElementById("hello").innerHTML = "Hello Everbody!!!";
     
 function perfectNumber(){
     let number = document.getElementById("query").value;
