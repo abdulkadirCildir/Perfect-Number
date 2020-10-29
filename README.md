@@ -39,6 +39,4 @@ https://abdulkadircildir.github.io/Perfect-Number/
 
 - Step 2: Create project folder for local public repo on your pc
 
-- Step 3: Create News Page with React Native.
-
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
